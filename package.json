@@ -1,0 +1,21 @@
+{
+  "name": "week-18-prisma-and-orms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -b && node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "prisma": "^6.4.1",
+    "ts-node": "^10.9.2",
+    "typescipt": "^1.0.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.4.1"
+  }
+}
